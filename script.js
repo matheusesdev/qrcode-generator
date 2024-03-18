@@ -21,5 +21,8 @@ qrInput.addEventListener("keyup", () => {
   if (!qrInput.value.trim()) {
     wrapper.classList.remove("active");
     preValue = "";
+    generateBtn.innerText = "Criar QR Code";
   }
 });
+
+
