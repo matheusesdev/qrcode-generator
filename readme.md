@@ -22,8 +22,8 @@ Este é um projeto de um gerador de QR Code simples usando HTML, CSS e JavaScrip
 
 ## Recursos Adicionais
 
-- Google Fonts [https://fonts.google.com/?query=POPPINS]
-- QR Code Generator API [https://github.com/davidshimjs/qrcodejs]
+- [Google Fonts] (https://fonts.google.com/?query=POPPINS)
+- [QR Code Generator API] (https://github.com/davidshimjs/qrcodejs)
 
 ## Agradecimentos
 
