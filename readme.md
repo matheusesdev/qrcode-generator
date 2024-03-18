@@ -12,7 +12,7 @@ Este é um projeto de um gerador de QR Code simples usando HTML, CSS e JavaScrip
 
 ## Pré-requisitos
 
-- Nenhum pré-requisito é necessário par ausar este gerador de QR Code.
+- Nenhum pré-requisito é necessário para usar este gerador de QR Code.
 
 ## Tecnologias utilizadas
 
